@@ -1,0 +1,64 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("../fonts/flaticon.eot");
+	src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
+	url("../fonts/flaticon.woff") format("woff"),
+	url("../fonts/flaticon.ttf") format("truetype"),
+	url("../fonts/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+	font-style: normal;
+	margin-left: 20px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	top: -15%;
+	font-size: 30px;
+	width: 30px;
+	height: 30px;
+
+}.flaticon-ball23:before {
+	content: "\e000";
+}
+.flaticon-basket32:before {
+	content: "\e001";
+}
+.flaticon-basketball50:before {
+	content: "\e002";
+}
+.flaticon-basketball51:before {
+	content: "\e003";
+}
+.flaticon-martial-arts:before {
+	content: "\e004";
+}
+.flaticon-martial6:before {
+	content: "\e005";
+}
+.flaticon-skate:before {
+	content: "\e006";
+}
+.flaticon-skate3:before {
+	content: "\e007";
+}
+.flaticon-skate8:before {
+	content: "\e008";
+}
+.flaticon-skateboard3:before {
+	content: "\e009";
+}
+.flaticon-skater:before {
+	content: "\e00a";
+}
+.flaticon-surf6:before {
+	content: "\e00b";
+}
+.flaticon-surf7:before {
+	content: "\e00c";
+}
