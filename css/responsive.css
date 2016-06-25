@@ -358,6 +358,10 @@ TOC :
       text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
    }  
 
+   #contact ul li a {
+    font-size: 0.7em;
+   }
+
    /* form */
    #contact label {
       float: none;
